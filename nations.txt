@@ -1,0 +1,245 @@
+Afghanistan.png, +93
+Aland.png, +358
+Albania.png, +355
+Algeria.png, +213
+American Samoa.png, +1 684
+Andorra.png, +376
+Angola.png, +244
+Anguilla.png, +1 264
+Antarctica.png, +672
+Antigua and Barbuda.png, +1 268
+Argentina.png, +54
+Armenia.png, +374
+Aruba.png, +297
+Australia.png, +61
+Austria.png, +43
+Azerbaijan.png, +994
+Bahamas.png, +1 242
+Bahrain.png, +973
+Bandeira de Ilhas Virgens Britânicas.png, +1 284 (British Virgin Islands)
+Bangledesh.png, +880
+Barbados.png, +1 246
+Belarus.png, +375
+Belgium.png, +32
+Belize.png, +501
+Benin Republic.png, +229
+Bermuda.png, +1 441
+Bhutan.png, +975
+Bolivia.png, +591
+Bonaire.png, +599 7
+Bosnia and Herzegovina.png, +387
+Botswana.png, +267
+Brazil.png, +55
+British Indian Ocean Territory.png, +246
+Brunei.png, +673
+Bulgaria.png, +359
+Burkina Faso.png, +226
+Burundi.png, +257
+Cambodia.png, +855
+Cameroon.png, +237
+Canada.png, +1
+Cape Verde.png, +238
+Central African Republic.png, +236
+Chile.png, +56
+China.png, +86
+Christmas Island.png, +61 8
+Cocos Island.png, +61 8
+Colombia.png, +57
+Cook Islands.png, +682
+Costa Rica.png, +506
+Croatia.png, +385
+Cuba.png, +53
+Curacao.png, +599 9
+Cyprus.png, +357
+Czech Republic.png, +420
+Denmark.png, +45
+Djibouti.png, +253
+Dominica.png, +1 767
+Dominican Republic.png, +1 809, +1 829, +1 849
+DR Congo.png, +243
+Drapeau Îles Canaries.png, +34 (Canary Islands)
+East Timor.png, +670
+Ecuador.png, +593
+Egypt.png, +20
+El Salvador.png, +503
+Equatorial Guinea.png, +240
+Eritrea.png, +291
+Estonia.png, +372
+Eswatini.png, +268
+Ethiopia.png, +251
+Falkland Island.png, +500
+Faroe Islands.png, +298
+Fiji.png, +679
+Finland.png, +358
+France.png, +33
+French Guiana.png, +594
+French Polynesia.png, +689
+French Southern and Antarctic Lands.png, +262
+Gabon.png, +241
+Georgia.png, +995
+Germany.png, +49
+Ghana.png, +233
+Gibraltar.png, +350
+Great Britain.png, +44 (United Kingdom)
+Greece.png, +30
+Greenland.png, +299
+Grenada.png, +1 473
+Guadeloupe.png, +590
+Guam.png, +1 671
+Guatemala.png, +502
+Guernsey.png, +44 1481
+Guinea-Bissau.png, +245
+Guyana.png, +592
+Haiti.png, +509
+Honduras.png, +504
+Hong Kong.png, +852
+Hungary.png, +36
+Iceland.png, +354
+India.png, +91
+Indonesia.png, +62
+Iran.png, +98
+Iraq.png, +964
+Ireland.png, +353
+Isle of Man.png, +44 1624
+Isreal.png, +972
+Italy.png, +39
+Ivory Coast.png, +225
+Jamaica.png, +1 876
+Japan.png, +81
+Jersey.png, +44 1534
+Jordan.png, +962
+Kazakhstan.png, +7 6, +7 7
+Kenya.png, +254
+Kiribati.png, +686
+Kosovo.png, +383
+Kuwait.png, +965
+Kyrgyzstan.png, +996
+Laos.png, +856
+Latvia.png, +371
+Lebanon.png, +961
+Lesotho.png, +266
+Liberia.png, +231
+Libya.png, +218
+Liechtenstein.png, +423
+Lithuania.png, +370
+Luxembourg.png, +352
+Macau.png, +853
+Macedonia.png, +389 (North Macedonia)
+Madagascar.png, +261
+Malawi.png, +265
+Malaysia.png, +60
+Mali.png, +223
+Malta.png, +356
+Martinique.png, +596
+Mauritania.png, +222
+Mauritius.png, +230
+Mayotte.png, +262
+Mexico.png, +52
+Micronesia.png, +691
+Moldova.png, +373
+Monaco.png, +377
+Mongolia.png, +976
+Montenegro.png, +382
+Montserrat.png, +1 664
+Morocco.png, +212
+Mozambique.png, +258
+Myanmar.png, +95
+Namibia.png, +264
+Nauru.png, +674
+Nepal.png, +977
+New Caledonia.png, +687
+New Zealand.png, +64
+Nicaragua.png, +505
+Niger.png, +227
+Nigeria.png, +234
+Niue.png, +683
+Norfolk Island.png, +672 3
+North Korea.png, +850
+Norway.png, +47
+Oman.png, +968
+Pakistan.png, +92
+Palau.png, +680
+Palestine.png, +970
+Panama.png, +507
+Papua New Guinea.png, +675
+Paraguay.png, +595
+Peru.png, +51
+Pitcairn Islands.png, +64
+Poland.png, +48
+Portugal.png, +351
+Puerto Rico.png, +1 787, +1 939
+Qatar.png, +974
+Republic of the Congo.png, +242
+Romania.png, +40
+Russia.png, +7
+Rwanda.png, +250
+Saint Berthelemy.png, +590
+Saint Helena, Ascension and Tristan da Cunha-1.png, +290
+Saint Helena, Ascension and Tristan da Cunha.png, +290
+Saint Kitts and Nevis.png, +1 869
+Saint Lucia.png, +1 758
+Saint Pierre and Miquelon.png, +508
+Saint Vincent and the Grenadines.png, +1 784
+Samoa.png, +685
+San Marino.png, +378
+Sarawi Arab Democratic Republic.png, +212
+Saudi Arabia.png, +96
+Senegal.png, +221
+Serbia.png, +381
+Seychelles.png, +248
+Sierra Leone.png, +232
+Singapore.png, +65
+Slovakia.png, +421
+Slovenia.png, +386
+Solomon Islands.png, +677
+Somalia.png, +252
+South Africa.png, +27
+South Georgia and the South Sandwich Islands.png, +500
+South Korea.png, +82
+South Sudan.png, +211
+Spain.png, +34
+Sri Lanka.png, +94
+St Helena.png, +290
+Sudan.png, +249
+Suriname.png, +597
+Sweden.png, +46
+Switzerland.png, +41
+Syria.png, +963
+São Tomé and Príncipe.png, +239
+Tajikistan.png, +992
+Tanzania.png, +255
+Thailand.png, +66
+the Cayman Islands.png, +1345
+the Comoros.png, +269
+The Gambia.png, +220
+the Maldives.png, +960
+the Marshall Islands.png, +692
+the Netherlands.png, +31
+the Northern Mariana Islands.png, +1670
+the Philippines.png, +63
+the Republic of China.png, +886
+the Republic of Macedonia.png, +389
+the Turks and Caicos Islands.png, +1649
+the United States Virgin Islands.png, +1340
+the United States.png, +1
+Togo.png, +228
+Tokelau.png, +690
+Tonga.png, +676
+Trinidad and Tobago.png, +1868
+Tunisia.png, +216
+Turkmenistan.png, +993
+Tuvalu.png, +688
+Türkiye.png, +90
+Uganda.png, +256
+Ukraine.png, +380
+United Arab Emirate.png, +971
+Uruguay.png, +598
+Uzbekistan.png, +998
+Vanuatu.png, +678
+Vatican City.png, +39
+Venezuela.png, +58
+Vietnam.png, +84
+Wallis and Futuna.png, +681
+Yemen.png, +967
+Zambia.png, +260
+Zimbabwe.png, +263
